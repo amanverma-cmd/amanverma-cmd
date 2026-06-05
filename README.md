@@ -1,19 +1,3 @@
-## Aman Verma
-Computer Science Student | Full-Stack Developer
+Hey guys! It's me aman currently i am deep diving into next.js and trying to build projects which people can use.
 
-
-### About
-I build practical web applications and focus on understanding systems from first principles.  
-Currently working with the MERN stack and improving problem-solving skills.
-
-
-### Tech
-- JavaScript, TypeScript, C, C++
-- React, Node.js, Express
-- MongoDB, Git
-
-
-<img src="https://streak-stats.demolab.com?user=amannv" />
-
-
-Learning by building.
+I am so much interested in building cool projects and SaaS products apart from coding i play story mode games 
